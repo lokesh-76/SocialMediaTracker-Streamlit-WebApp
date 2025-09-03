@@ -1,0 +1,9 @@
+streamlit
+pandas
+praw
+beautifulsoup4
+selenium
+openpyxl
+requests
+pytz
+streamlit-aggrid
