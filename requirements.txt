@@ -7,3 +7,6 @@ openpyxl
 requests
 pytz
 streamlit-aggrid
+vaderSentiment
+beautifulsoup4
+
