@@ -1,4 +1,4 @@
-# 📊 TrendPulse
+# 📊 Social Media Tracker
 
 [![GitHub stars](https://img.shields.io/github/stars/lokesh-76/TrendPulse?style=social)](https://github.com/lokesh-76/TrendPulse/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
